@@ -8,8 +8,10 @@ import green_dot from './green_dot.png'
 import help_icon from './help_icon.png'
 import send_icon from './send_icon.png'
 import gallery_icon from './gallery_icon.png'
+import pic from './pic.jpg'
 const assets={
  chat,
+ pic,
  send_icon,
  gallery_icon,
  help_icon,
