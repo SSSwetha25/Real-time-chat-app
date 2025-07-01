@@ -9,8 +9,10 @@ import help_icon from './help_icon.png'
 import send_icon from './send_icon.png'
 import gallery_icon from './gallery_icon.png'
 import pic from './pic.jpg'
+import avatar_icon from './avatar_icon.png'
 const assets={
  chat,
+ avatar_icon,
  pic,
  send_icon,
  gallery_icon,
