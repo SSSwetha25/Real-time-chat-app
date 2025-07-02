@@ -1,6 +1,6 @@
 .profile{
     min-height: 100vh;
-    background: rgb(0, 136, 255);
+    background: url("../../assets/background.jpg") no-repeat;
     background-size: cover;
     display: flex;
     align-items: center;
@@ -16,10 +16,10 @@
     border-radius: 10px;
 }
 .profile-pic{
-    max-width: 160px;
+    max-width: 200px;
     aspect-ratio: 1/1;
     margin: 20px auto;
-    /* border-radius: 35%; */
+    border-radius: 15%;
 }
 .profile form{
     display: flex;
