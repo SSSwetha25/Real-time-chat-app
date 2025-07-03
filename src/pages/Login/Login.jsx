@@ -7,7 +7,7 @@ const Login = () => {
 
   return (
     <div className='login'>
-      <img src={assets.chat} alt="" className='logo'/>
+      <img src={assets.logo} alt="" className='logo'/>
       <form className='login-form'>
         <h2>{currState}</h2>
         {currState==="Sign Up"?<input type="text" placeholder='username' className="form-input" required/>:null}
